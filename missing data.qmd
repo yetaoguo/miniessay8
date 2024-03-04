@@ -4,7 +4,7 @@ author:
   - Yetao Guo
 thanks: "Code and data are available at: https://github.com/yetaoguo/miniessay8.git"
 date: "March 4, 2024"
-format: pdf  
+format: pdf   
 ---
   \newpage
 ---- 
